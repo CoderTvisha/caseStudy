@@ -1,0 +1,21 @@
+#headingDiv{
+    background-color:darkslategrey;
+    width: 90%;
+    height: 170px;
+    margin-top: 10px;
+    color: white;
+
+}
+
+img{
+    padding-bottom: 5px;
+    
+}
+
+.divs1{
+    margin-top: 10px;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 50px;
+
+}
